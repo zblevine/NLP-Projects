@@ -1,0 +1,8 @@
+I used a hash table to map each word to the number of times used - I would add one to the value for each word if the word was already there.
+
+I then enumerated the hash table to create an array of lines containing each word and the number of times that word was used. I then wrote each line to the output file.
+
+Imports: 
+from java.util - Enumeration, Hashtable, List, Vector
+from java.nio.file - Files, Paths, Path
+java.nio.charset.Charset, java.io.IOException

@@ -1,0 +1,15 @@
+README
+
+I used a separate wrapper for rules rather than a HashMap because a) I wanted easy access to all four
+members of its constituency, b) I had written wrappers for constituents *and* rules, and while I 
+changed the constituent representation to a series of HashMaps, I didn't want to do the same for rules
+(perhaps out of laziness), and c) because I was only instantiating all the Rule objects once, and I
+thought it unnecessary to avoid the cost of object creation when I would be creating a (comparatively)
+small number of Rule objects as opposed to the millions of Constituent objects I'd create for each sentence.
+
+The debinarize method works recursively on the binarized sub-strings of a given input.
+
+No real bugs outside of performance. The output file only has the first 40 sentences given by the 
+parser, as just those took an hour and 17 minutes to produce. I spent 12-15 hours performance debugging
+by myself without any sign of the hundredfold improvement necessary to parse the whole corpus in a
+timely manner so I suspect there's an algorithmic flaw in my design that I'm not seeing.

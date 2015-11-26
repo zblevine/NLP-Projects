@@ -1,0 +1,14 @@
+README
+
+-both programs took under ten minutes on this computer to run fully
+
+-Dumb output had a higher f-score but the noisychannel output seemed more reasonable - the dumb
+method of decoding seems to reward solely what we defined as "correct" alignment (words being on 
+the same line as the right translations) while the bigram language model lends itself to more
+readable English.
+
+-our method of evaluation rewards a more exact translation technically speaking but doesn't reward
+highly readable English
+
+-fscore for verydumb: .563
+-fscore for noisychannel: .526

@@ -1,0 +1,10 @@
+README
+
+-Both programs ran semi-instantly
+-alpha value = ~1.59
+-beta value = ~90
+-I used a recursive golden section search to maximize the likelihood of smoothing parameters
+on held-out data
+-I used lists to store the word pairs used in the bigram model; using arrays would take in pointers
+to the memory, not the word pair itself, so lists were necessary
+-no real bugs!

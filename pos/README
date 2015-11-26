@@ -1,0 +1,12 @@
+README
+
+-I ran the viterbi algorithm once per sentence
+-I used two hashtables to store my already-gotten values in use of the viterbi algorithm: 
+one to store the probabilities for each tag at the given position in the sentence, and one to keep
+track of the previous tag for each tag and each position in the sentence (otherwise the tag positions
+would get overwritten by my error tag corresponding to a tag sequence/tau value with probability 0)
+-In the dumb unk tagging, I gave each (tag, *UNK*) pair a tau value of 1, and the percentage of
+correct tags was 93.2; if I gave each such pair a value of 1/(n_tag + 1), the correct tag percentage
+was 92.6.
+-With better tagging 93.6 of the tags were correct
+-No bugs!

@@ -1,0 +1,617 @@
+Log probability: -1272603.438863533
+The probability of topic 0 is:0.0
+The probability of topic 1 is:0.0
+The probability of topic 2 is:0.0
+The probability of topic 3 is:0.0
+The probability of topic 4 is:0.0
+The probability of topic 5 is:0.0
+The probability of topic 6 is:0.0
+The probability of topic 7 is:0.0
+The probability of topic 8 is:0.0
+The probability of topic 9 is:0.0
+The probability of topic 10 is:0.0
+The probability of topic 11 is:0.0
+The probability of topic 12 is:0.0
+The probability of topic 13 is:0.0
+The probability of topic 14 is:0.0
+The probability of topic 15 is:0.0
+The probability of topic 16 is:0.0
+The probability of topic 17 is:0.0
+The probability of topic 18 is:0.0
+The probability of topic 19 is:0.0
+The probability of topic 20 is:0.0
+The probability of topic 21 is:0.0
+The probability of topic 22 is:0.0
+The probability of topic 23 is:0.0
+The probability of topic 24 is:0.0
+The probability of topic 25 is:0.0
+The probability of topic 26 is:0.0
+The probability of topic 27 is:0.0
+The probability of topic 28 is:0.0
+The probability of topic 29 is:0.0
+The probability of topic 30 is:0.0
+The probability of topic 31 is:0.0
+The probability of topic 32 is:0.0
+The probability of topic 33 is:0.0
+The probability of topic 34 is:0.0
+The probability of topic 35 is:0.0
+The probability of topic 36 is:0.0
+The probability of topic 37 is:0.0
+The probability of topic 38 is:0.0
+The probability of topic 39 is:0.0
+The probability of topic 40 is:0.0
+The probability of topic 41 is:0.0
+The probability of topic 42 is:0.0
+The probability of topic 43 is:0.0
+The probability of topic 44 is:0.0
+The probability of topic 45 is:0.0
+The probability of topic 46 is:0.0
+The probability of topic 47 is:0.0
+The probability of topic 48 is:0.0
+The probability of topic 49 is:1.0
+The 15 best words for topic 0:
+expedition
+intolerance
+emphasize
+suggestions
+koch
+chrysler
+dissident
+horse
+strict
+reached
+
+The 15 best words for topic 1:
+teachings
+grain
+dumb
+decent
+pledges
+n.j.
+bruck
+joke
+endorsed
+jones
+
+The 15 best words for topic 2:
+dire
+blown
+belt
+haldeman
+fruit
+manufacturers
+olson
+troops
+
+The 15 best words for topic 3:
+preventing
+phoenix
+counseled
+croatian
+yale
+guest
+notorious
+unions
+transportation
+critics
+operations
+central
+
+The 15 best words for topic 4:
+clearer
+clashes
+respectful
+guarantees
+reads
+fiction
+characters
+killed
+los
+
+The 15 best words for topic 5:
+revoking
+barbra
+net
+watkins
+future
+
+The 15 best words for topic 6:
+enrolled
+reward
+commandos
+qualify
+delighted
+ethics
+investor
+mike
+leading
+
+The 15 best words for topic 7:
+serb-held
+v-6
+at&t
+violent
+feel
+workers
+add
+including
+
+The 15 best words for topic 8:
+contents
+gears
+enactment
+sooner
+walls
+prince
+improve
+frequently
+breast
+
+The 15 best words for topic 9:
+tags
+contradiction
+flaw
+envelopes
+impending
+natcher
+pittsburgh
+databases
+perceptions
+feminist
+outlets
+attached
+aim
+puts
+tisch
+
+The 15 best words for topic 10:
+egregious
+mohammed
+charlie
+midterm
+meets
+supported
+emotional
+favored
+difficult
+germans
+
+The 15 best words for topic 11:
+collector
+narrowly
+attraction
+sicily
+catch
+
+The 15 best words for topic 12:
+shortcomings
+confiscated
+potent
+jesus
+exhibitors
+diana
+encounters
+fault
+packwood
+individuals
+
+The 15 best words for topic 13:
+sunlight
+lucky
+prepared
+
+The 15 best words for topic 14:
+noel
+scan
+herbert
+mill
+stomach
+villain
+fortune
+'70s
+defend
+removed
+legal
+
+The 15 best words for topic 15:
+far-reaching
+dieppe
+towers
+remake
+strangers
+predictions
+merit
+camel
+mount
+21
+approval
+interview
+30
+
+The 15 best words for topic 16:
+aggravated
+devise
+populated
+downright
+courses
+expulsion
+beef
+yongbyon
+
+The 15 best words for topic 17:
+nonfiction
+suffers
+oversees
+ingredients
+theatrical
+retailers
+motive
+marry
+protective
+luck
+handle
+impossible
+
+The 15 best words for topic 18:
+mentions
+denies
+questioning
+barriers
+harrelson
+closing
+
+The 15 best words for topic 19:
+languages
+unpleasant
+textbooks
+vary
+joey
+challengers
+preview
+mills
+closest
+relative
+settle
+delay
+kennedy
+
+The 15 best words for topic 20:
+drummer
+completion
+exert
+hemingway
+alex
+spectrum
+portsmouth
+caution
+institutional
+appropriations
+devices
+cruise
+sites
+owner
+road
+
+The 15 best words for topic 21:
+richer
+rules
+
+The 15 best words for topic 22:
+11th
+audit
+1.7
+rendered
+t
+figured
+jobless
+grandchildren
+rent
+converted
+resident
+carson
+conflict
+statement
+
+The 15 best words for topic 23:
+brooke
+consumed
+bones
+propose
+rated
+voters
+audience
+
+The 15 best words for topic 24:
+seas
+literacy
+departed
+indicators
+marked
+j.
+
+The 15 best words for topic 25:
+hank
+format
+rita
+abruptly
+fake
+remembered
+stress
+sue
+director
+human
+
+The 15 best words for topic 26:
+glue
+hung
+toughest
+temple
+party
+
+The 15 best words for topic 27:
+seaside
+likelihood
+d-md.
+bimbo
+sophisticated
+anthony
+appointed
+required
+read
+
+The 15 best words for topic 28:
+uterus
+achievements
+protracted
+morton
+wisconsin
+demeanor
+leaf
+taiwan
+harder
+normal
+waiting
+months
+
+The 15 best words for topic 29:
+exhaustion
+consists
+commemorative
+ireland
+acceptance
+fallen
+outlined
+
+The 15 best words for topic 30:
+spurred
+action-adventure
+refuses
+rounded
+focuses
+emerge
+aboard
+
+The 15 best words for topic 31:
+imperative
+epidemiologist
+sheppard
+pp.
+hunt
+flash
+comprehensive
+prospects
+grow
+
+The 15 best words for topic 32:
+noel
+weaknesses
+publish
+cent
+characteristic
+disagreement
+drag
+remove
+
+The 15 best words for topic 33:
+openness
+crippled
+contractor
+teenagers
+depositors
+sovereign
+awards
+restaurant
+proposed
+
+The 15 best words for topic 34:
+jordan
+classical
+upscale
+sounded
+rodney
+biological
+luxury
+accord
+gas
+labor
+
+The 15 best words for topic 35:
+billings
+herbert
+influx
+declines
+buddhist
+abandon
+judged
+sitting
+property
+lee
+
+The 15 best words for topic 36:
+hardship
+cyanide
+spare
+hearty
+criteria
+atlantic
+comprehensive
+associates
+agencies
+korea
+
+The 15 best words for topic 37:
+considers
+73
+divorced
+counter
+interior
+images
+
+The 15 best words for topic 38:
+cancellations
+putnam
+steal
+pit
+glad
+700,000
+nerve
+15,000
+terry
+footage
+generations
+xxx
+supplies
+presidency
+aides
+
+The 15 best words for topic 39:
+montreal
+outlets
+high-ranking
+engraver
+observations
+heroes
+compact
+rolls
+false
+factors
+living
+street
+
+The 15 best words for topic 40:
+clone
+internationally
+boycott
+flexibility
+cigarette
+visitors
+
+The 15 best words for topic 41:
+dazzle
+promotes
+uc
+flavor
+applause
+broadway
+expert
+sale
+1994
+
+The 15 best words for topic 42:
+roberto
+furnished
+midterm
+confession
+patience
+49
+marks
+journal
+activity
+june
+
+The 15 best words for topic 43:
+2.4
+confuse
+championship
+ripe
+premium
+tibetan
+rockefeller
+opposing
+protective
+appearances
+extremely
+chapter
+smart
+tens
+creating
+
+The 15 best words for topic 44:
+thatcher
+socks
+respectfully
+excluding
+competitor
+austria
+scripts
+beaches
+cab
+olive
+bands
+judges
+48
+protests
+shift
+
+The 15 best words for topic 45:
+badges
+goose
+leases
+combatants
+f.
+
+The 15 best words for topic 46:
+cheer
+turbulence
+techniques
+secrets
+perception
+causing
+1982
+great
+
+The 15 best words for topic 47:
+touches
+blend
+collar
+rescue
+ahead
+calif.
+
+The 15 best words for topic 48:
+subordinate
+sculptures
+mixing
+aims
+expecting
+60
+post
+day
+
+The 15 best words for topic 49:
+clinton
+president
+people
+u.s.
+house
+time
+government
+percent
+washington
+united
+officials
+american
+war
+china
+administration
+

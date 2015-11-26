@@ -1,0 +1,14 @@
+Some inconsistencies: 
+
+-although article 17 is about international politics, and topic 49 was determined to have 100
+percent probability (in other iterations the probability for the main topic would be between
+99 and 100 percent) the top 15 terms for topic 49 were all related to U.S. politics (except "China").
+Perhaps many political terms were lumped together by the algorithm, but perhaps too many words ended
+up in topic 49.
+
+-Most of the topics had fewer than 15 words in them. I had a bug earlier where all the words would
+eventually settle into one topic. Perhaps something similar yet less deleterious happened here where
+a disproportionate number of words ended up in a few topics (this would corroborate the irregularity
+in the populous topic 49 that I noted above)
+
+-This took only a couple minutes to run.
